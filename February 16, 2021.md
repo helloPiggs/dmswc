@@ -7,5 +7,3 @@ If I were to imagine my own tool to create things with, I would create an art so
 ## NoPaint
 
 I believe that anyone who uses No Paint is both the artist, as well as the collaborator. Because of how specific many of the "events" are in the software, I'd say that the art made using No Paint is a sort of collaboration between the user, and the person who programmed it. Randomness plays a pretty heavy role in No Paint, moreso than in other art softwares like Photoshop for example, where users have complete control over pretty much any minute detail. By adding in randomness, the artist is forced to give up some level of control, and that can lead to some feeling restricted, but for others it may fuel their creativity.
-
-
