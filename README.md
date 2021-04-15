@@ -10,3 +10,5 @@ Drawing, Moving, Seeing with Code, Spring 2021, Dev log
 [March 17, 2021](https://hellopiggs.github.io/dmsc/March_17_2021)
 
 [April 06, 2021](https://hellopiggs.github.io/dmsc/April_06_2021)
+
+[April 15, 2021](https://hellopiggs.github.io/dmsc/April_15_2021)
