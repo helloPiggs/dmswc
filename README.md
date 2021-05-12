@@ -12,3 +12,5 @@ Drawing, Moving, Seeing Code Spring 2021 Dev log
 [April 06, 2021 (Hydra)](https://hellopiggs.github.io/dmsc/April_06_2021)
 
 [April 15, 2021 (Squirrel Eat Squirrel)](https://hellopiggs.github.io/dmsc/April_15_2021)
+
+[May 12, 2021 (Final Project)](https://hellopiggs.github.io/dmsc/May_12_2021)
